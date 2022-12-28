@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-12-27T14:36:26.189Z"
+    },
+    {
+      "id": 2,
+      "description": "Hámburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-12-27T14:36:26.189Z"
+    },
+    {
+      "description": "Desenvolvimento de APP",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-12-27T19:22:41.053Z",
+      "id": 3
+    },
+    {
+      "description": "Pizza ",
+      "price": 55,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-12-27T19:42:22.486Z",
+      "id": 4
+    },
+    {
+      "description": "Cafeteira",
+      "price": 280,
+      "category": "Eletrodomésticos",
+      "type": "outcome",
+      "createdAt": "2022-12-27T20:02:01.622Z",
+      "id": 5
+    }
+  ]
+}
